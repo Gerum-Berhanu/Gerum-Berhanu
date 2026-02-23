@@ -21,15 +21,11 @@ I have a good experience in **HTML5**, **CSS3 (Tailwind)**, **JS**, **PHP**, **M
 
 I'm currently learning **React**, **TypeScript**, **FastAPI** and **ML** to deliver apps that can not only solve problems, but help us better understand nature.
 
----
-
 ## A Bit About Me
 
 - 🤓 Math geek 
 - 🎵 Synthwave lover
 - 🎹 Music composer (for fun)
 - 💙 Man city fan
-
----
 
 > mono no aware
