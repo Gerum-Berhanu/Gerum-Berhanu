@@ -28,4 +28,4 @@ I'm currently learning **React**, **TypeScript**, **FastAPI** and **ML** to deli
 - 🎹 Music composer (for fun)
 - 💙 Man city fan
 
-> mono no aware
+> mono no aware 🌸
