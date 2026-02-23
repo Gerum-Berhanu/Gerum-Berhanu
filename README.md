@@ -15,6 +15,6 @@ I'm currently learning React, TypeScript, FastAPI and ML to deliver apps that ca
 
 ## Works I'm Proud of
 - **[Codopia](https://github.com/codopiaet/codopia)** - A social media for developers to share and review projects.
-- **[Oblivion](https://youtu.be/DOn43ncmO4c?si=22pS_foqD6RszAiK)** - Music I composed.
+- **[Oblivion](https://youtu.be/DOn43ncmO4c?si=22pS_foqD6RszAiK)** - The only track I published (all the others are private).
 
 > mono no aware 🌸
