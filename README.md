@@ -17,4 +17,8 @@ I'm currently learning React, TypeScript, FastAPI and ML to deliver apps that ca
 - **[Codopia](https://github.com/codopiaet/codopia)** - A social media for developers to share and review projects.
 - **[Oblivion](https://youtu.be/DOn43ncmO4c?si=22pS_foqD6RszAiK)** - The only track I published (all the others are private).
 
+## Follow My Journey
+I've started documenting mainly my learning journey on X.
+[Follow along → @gerum_berhanu](https://x.com/gerum_berhanu)
+
 > mono no aware 🌸
