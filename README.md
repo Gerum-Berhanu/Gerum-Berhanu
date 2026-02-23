@@ -1,25 +1,10 @@
 ## Hi there 👋
 
-<!--
-**Gerum-Berhanu/Gerum-Berhanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gerum, a first-year CS student in Addis Ababa.
 
-Here are some ideas to get you started:
+I have good experience in HTML5, CSS (TailwindCSS), JS, PHP, MySQL, and Python (Flask). 99% of the projects I have are built with these tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Gerum, a first year CS student in Addis Ababa.
-
-I have a good experience in **HTML5**, **CSS3 (Tailwind)**, **JS**, **PHP**, **MySQL**, and **Python (Flask)**. 99% of the projects I have are built with these tools.
-
-I'm currently learning **React**, **TypeScript**, **FastAPI** and **ML** to deliver apps that can not only solve problems, but help us better understand nature.
+I'm currently learning React, TypeScript, FastAPI and ML to deliver apps that can not only *solve problems*, but help us *better understand nature*.
 
 ## A Bit About Me
 
@@ -27,5 +12,9 @@ I'm currently learning **React**, **TypeScript**, **FastAPI** and **ML** to deli
 - 🎵 Synthwave lover
 - 🎹 Music composer (for fun)
 - 💙 Man city fan
+
+## Works I'm Proud of
+- **[Codopia](https://github.com/codopiaet/codopia)** - A social media for developers to share and review projects.
+- **[Oblivion](https://youtu.be/DOn43ncmO4c?si=22pS_foqD6RszAiK)** - Music I composed.
 
 > mono no aware 🌸
