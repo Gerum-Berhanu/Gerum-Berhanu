@@ -4,7 +4,7 @@ I'm Gerum, a first-year CS student in Addis Ababa.
 
 I have good experience in HTML5, CSS (TailwindCSS), JS, PHP, MySQL, and Python (Flask). 99% of the projects I have are built with these tools.
 
-I'm currently learning React, TypeScript, FastAPI and ML to deliver apps that can not only *solve problems*, but help us *better understand nature*.
+I'm currently learning Data Science, ML and FastAPI aiming to deliver apps that can not only *solve problems*, but help us *better understand nature*.
 
 ## A Bit About Me
 
